@@ -10,7 +10,7 @@
 
 ### Question Asked
 
-What is the number of times the speaker 1 has dialogue and speaker 2 has dialopgue. Also determine the total count of both the dialogues
+What is the number of times the speaker 1 has dialogue and speaker 2 has dialogue. Also determine the total count of both the dialogues
 
 ### Bash commands used :
 
